@@ -1,0 +1,2698 @@
+{
+  "items": [
+    {
+      "img": {
+        "id": 42645,
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/image/66d563e8a6f79_right-arrow_%282%29.png",
+        "name": "66d563e8a6f79_right-arrow_(2).png",
+        "type": "2",
+        "width": 0,
+        "height": 0,
+        "shop_id": 4062,
+        "created_at": "2024-09-02T07:06:16.000000Z",
+        "updated_at": "2024-09-02T07:06:16.000000Z"
+      },
+      "name": "",
+      "type": "collection",
+      "title": "NEW ARRIVAL",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": {
+        "id": "474833912095",
+        "type": "collection",
+        "image": "",
+        "title": "Home Page: New Arrival",
+        "handle": "home-page-new-arrival"
+      },
+      "blog_link": null,
+      "navigations": null,
+      "is_custom_page": false,
+      "subItems": [
+        {
+          "title": "Sub Item 1",
+          "subItems": []
+        },
+        {
+          "title": "Sub Item 2",
+          "subItems": []
+        }
+      ]
+    },
+    {
+      "img": {
+        "id": 42645,
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/image/66d563e8a6f79_right-arrow_%282%29.png",
+        "name": "66d563e8a6f79_right-arrow_(2).png",
+        "type": "2",
+        "width": 0,
+        "height": 0,
+        "shop_id": 4062,
+        "created_at": "2024-09-02T07:06:16.000000Z",
+        "updated_at": "2024-09-02T07:06:16.000000Z"
+      },
+      "name": "",
+      "type": "collection",
+      "title": "ALL PRODUCT",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": {
+        "id": "442394312991",
+        "type": "collection",
+        "image": "",
+        "title": "All: Product",
+        "handle": "all"
+      },
+      "blog_link": null,
+      "navigations": null,
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "id": 42645,
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/image/66d563e8a6f79_right-arrow_%282%29.png",
+        "name": "66d563e8a6f79_right-arrow_(2).png",
+        "type": "2",
+        "width": 0,
+        "height": 0,
+        "shop_id": 4062,
+        "created_at": "2024-09-02T07:06:16.000000Z",
+        "updated_at": "2024-09-02T07:06:16.000000Z"
+      },
+      "name": "",
+      "type": "navigation",
+      "title": "APPAREL",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": [
+        {
+          "type": "collection",
+          "title": "SHOP ALL",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "427698356511",
+            "type": "collection",
+            "image": "",
+            "title": "All: Apparel",
+            "handle": "apparels"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "BAPE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "445187162399",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/2_d39de2fc-7522-4aac-be2f-4cdf7d61790d_30X.png?v=1713259224",
+            "title": "Apparel: A Bathing Ape",
+            "handle": "bape"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "CARHARTT",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477878747423",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/41_1_11zon_30X.jpg?v=1721393516",
+            "title": "Apparel: Carhartt",
+            "handle": "apparel-carhartt"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "DREW HOUSE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "465457381663",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/3_ea160349-98eb-4647-bffc-9458baa308e3_30X.png?v=1713260954",
+            "title": "Apparel: Drew House",
+            "handle": "drew-house"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "EGLAF",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "452793139487",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/4_5df453ed-9bc4-40d3-9aa1-fe85dd8185d8_30X.png?v=1713261020",
+            "title": "Apparel: Eglaf",
+            "handle": "eglaf™"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "EK COLLECTION",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "435245875487",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/12_3f116ca1-cad9-4693-944f-dba149e33b77_30X.png?v=1713261142",
+            "title": "Apparel: EK Collection",
+            "handle": "ek-collection-apparels"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "FEAR OF GOD ATHLETICS",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "478557995295",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/42_2_11zon_30X.jpg?v=1721393598",
+            "title": "Apparel: Fear of God Athletics",
+            "handle": "apparel-fear-of-god-athletics"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "FEAR OF GOD ESSENTIALS",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477388505375",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/5_30X.jpg?v=1714556641",
+            "title": "Apparel: Fear of God Essentials",
+            "handle": "fear-of-god-apparel"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "GALLERY DEPT",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "478138925343",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/43_3_11zon_30X.jpg?v=1721393644",
+            "title": "Apparel: Gallery Dept.",
+            "handle": "apparel-gallery-dept"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "HUMAN MADE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "440548032799",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/7_fcb3faf0-ce8a-4cf4-8541-0c2668130778_30X.png?v=1713262108",
+            "title": "Apparel: Human Made",
+            "handle": "human-made"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "JORDAN",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477531177247",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/44_4_11zon_30X.jpg?v=1721393686",
+            "title": "Apparel: Jordan",
+            "handle": "apparel-jordan"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "NIKE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "478229856543",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/45_5_11zon_30X.jpg?v=1721393716",
+            "title": "Apparel: Nike",
+            "handle": "apparel-nike"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "NOCIMH",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "476654469407",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/AJ1_Low_Travis_Scott_Olive_30X.png?v=1713753856",
+            "title": "Apparel: Nocimh",
+            "handle": "nocimh"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "PALACE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "474051838239",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/palace_30X.png?v=1713262911",
+            "title": "Apparel: Palace",
+            "handle": "palace"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "REPRESENT",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "433644732703",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/represent_30X.png?v=1713263072",
+            "title": "Apparel: Represent",
+            "handle": "represent"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "RYW",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "479232426271",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/46_6_11zon_30X.jpg?v=1721393749",
+            "title": "Apparel: RYW",
+            "handle": "apparel-ryw"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "STUSSY",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "465457414431",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/10_ec5b8948-4348-4e33-957a-e0c388fe320f_30X.png?v=1713259045",
+            "title": "Apparel: Stussy",
+            "handle": "stussy"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "STEALPLUG",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "453976293663",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/stealplug_x_ek_30X.png?v=1713263235",
+            "title": "Apparel: STEALPLUG",
+            "handle": "stealplug™-x-ek-collection"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "STONED & CO",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "479143035167",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/47_7_11zon_30X.jpg?v=1721393802",
+            "title": "Apparel: Stoned & Co ®",
+            "handle": "apparel-stoned-co-®"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "SUPREME",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "427698553119",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/supreme_30X.png?v=1713263325",
+            "title": "Apparel: Supreme",
+            "handle": "supreme-apparels"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "TEAM WANG",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "481362968863",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/49_9_11zon_30X.jpg?v=1721393947",
+            "title": "Apparel: Team Wang",
+            "handle": "apparel-team-wang"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "TRAVIS SCOTT",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "427696259359",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/travis_scott_30X.png?v=1713263758",
+            "title": "Apparel: Travis Scott",
+            "handle": "travis-scott-apparels"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "YEEZY",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "446579507487",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/yezzy_30X.png?v=1713263837",
+            "title": "Yeezy",
+            "handle": "yeezy"
+          }
+        }
+      ],
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "id": 42645,
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/image/66d563e8a6f79_right-arrow_%282%29.png",
+        "name": "66d563e8a6f79_right-arrow_(2).png",
+        "type": "2",
+        "width": 0,
+        "height": 0,
+        "shop_id": 4062,
+        "created_at": "2024-09-02T07:06:16.000000Z",
+        "updated_at": "2024-09-02T07:06:16.000000Z"
+      },
+      "name": "",
+      "type": "navigation",
+      "title": "SNEAKER",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": [
+        {
+          "type": "collection",
+          "title": "SHOP ALL",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "428284608799",
+            "type": "collection",
+            "image": "",
+            "title": "All: Sneaker",
+            "handle": "sneakers"
+          }
+        },
+        {
+          "type": "navigation",
+          "title": "AIR JORDAN",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 1",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353356575",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 1",
+                "handle": "air-jordan-1"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 1 LOW",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353487647",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 1 Low",
+                "handle": "air-jordan-1-low"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 1 MID",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353454879",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 1 Mid",
+                "handle": "air-jordan-1-mid"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 1 HIGH",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353389343",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 1 High",
+                "handle": "air-jordan-1-high"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 2",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353520415",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 2",
+                "handle": "air-jordan-2"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 3",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353618719",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 3",
+                "handle": "air-jordan-3"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 4",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353684255",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 4",
+                "handle": "air-jordan-4"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 6",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353717023",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 6",
+                "handle": "air-jordan-6"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 7",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353749791",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 7",
+                "handle": "air-jordan-7"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR JORDAN 10",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447353585951",
+                "type": "collection",
+                "image": "",
+                "title": "Air Jordan 10",
+                "handle": "air-jordan-10"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "447353323807",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/34_5edc3d3c-7503-4123-bb3e-834cf9c6480c_30X.png?v=1713249158",
+            "title": "Air Jordan",
+            "handle": "air-jordan"
+          }
+        },
+        {
+          "type": "navigation",
+          "title": "ADIDAS",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "ADILETTE 22",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446578688287",
+                "type": "collection",
+                "image": "",
+                "title": "Adilette 22",
+                "handle": "adilette-22"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "EQT SUPPORT 93/17",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446578786591",
+                "type": "collection",
+                "image": "",
+                "title": "EQT Support 93/17",
+                "handle": "eqt-support-93-17"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "HUMAN RACE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446578917663",
+                "type": "collection",
+                "image": "",
+                "title": "Human Race",
+                "handle": "human-race"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "NMD",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446578852127",
+                "type": "collection",
+                "image": "",
+                "title": "NMD",
+                "handle": "nmd"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SLEEK SUPER 72",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579081503",
+                "type": "collection",
+                "image": "",
+                "title": "Sleek Super 72",
+                "handle": "sleek-super-72"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SUPERSTAR",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579179807",
+                "type": "collection",
+                "image": "",
+                "title": "Superstar",
+                "handle": "superstar"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "ULTRA BOOST",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579343647",
+                "type": "collection",
+                "image": "",
+                "title": "Ultra Boost",
+                "handle": "ultra-boost"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "446578655519",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/35_b6c2cb20-a6f1-4efd-987d-c8eb12dda150_30X.png?v=1713259497",
+            "title": "Adidas",
+            "handle": "adidas"
+          }
+        },
+        {
+          "type": "navigation",
+          "title": "NIKE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "AIR FORCE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447378555167",
+                "type": "collection",
+                "image": "",
+                "title": "Nike Air Force 1 Low",
+                "handle": "nike-air-force-1-low"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR MAX",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447378686239",
+                "type": "collection",
+                "image": "",
+                "title": "Nike Air Max",
+                "handle": "nike-air-max"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "AIR VAPORMAX",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447379046687",
+                "type": "collection",
+                "image": "",
+                "title": "Nike Air VaporMax",
+                "handle": "nike-air-vapormax"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "BLAZER ",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "482619490591",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/BLAZER_30X.png?v=1723430013",
+                "title": "Nike Blazer",
+                "handle": "blazer"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "DUNK HIGH",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447379276063",
+                "type": "collection",
+                "image": "",
+                "title": "Nike Dunk High",
+                "handle": "nike-dunk-high"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "DUNK LOW",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447379308831",
+                "type": "collection",
+                "image": "",
+                "title": "Nike Dunk Low",
+                "handle": "nike-dunk-low"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "KOBE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "482619621663",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/KOBE_30X.png?v=1723430439",
+                "title": "Nike Kobe",
+                "handle": "nike-kobe"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "KWONDO 1",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447379505439",
+                "type": "collection",
+                "image": "",
+                "title": "Nike Kwondo 1",
+                "handle": "nike-kwondo-1"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "OFF-WHITE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447434817823",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/OFF-WHITE_30X.png?v=1723430627",
+                "title": "Off-White Sneaker",
+                "handle": "off-white-sneaker"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SB DUNK",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "474563281183",
+                "type": "collection",
+                "image": "",
+                "title": "Home Page: Nike SB Dunk Low",
+                "handle": "home-page-sb-dunk-low"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "TRAVIS SCOTT",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "447434293535",
+                "type": "collection",
+                "image": "",
+                "title": "Sneaker: Travis Scott",
+                "handle": "travis-scott-sneaker"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "426614391071",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/nike_30X.png?v=1713262712",
+            "title": "Nike",
+            "handle": "nike"
+          }
+        },
+        {
+          "type": "navigation",
+          "title": "YEEZY",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "350 V1",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "462979170591",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/350_V1_30X.png?v=1723431513",
+                "title": "Yeezy 350 V1",
+                "handle": "yeezy-350-v1"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "350 V2",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579704095",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/350_V2_30X.png?v=1723431599",
+                "title": "Yeezy 350 V2",
+                "handle": "yeezy-350-v2"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "350 V2 CMPCT",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "456545599775",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/350_V2_CMPCT_30X.png?v=1723431647",
+                "title": "Yeezy 350 V2 CMPCT",
+                "handle": "yeezy-350-v2-cmpct"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "380",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579802399",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/380_30X.png?v=1723431717",
+                "title": "Yeezy 380",
+                "handle": "yeezy-380"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "450",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579573023",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/450_30X.png?v=1723431821",
+                "title": "Yeezy 450",
+                "handle": "yeezy-450"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "500",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579605791",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/500_30X.png?v=1723431891",
+                "title": "Yeezy 500",
+                "handle": "yeezy-500"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "700",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579933471",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/700_30X.png?v=1723431953",
+                "title": "Yeezy 700",
+                "handle": "yeezy-700"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "700 V2",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579999007",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/700_V2_30X.png?v=1723432015",
+                "title": "Yeezy 700 V2",
+                "handle": "yeezy-700-v2"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "700 V3",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579671327",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/700_V3_30X.png?v=1723432040",
+                "title": "Yeezy 700 V3",
+                "handle": "yeezy-700-v3"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "700 MVVN",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446579867935",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/700_MNVN_30X.png?v=1723432102",
+                "title": "Yeezy 700 MNVN",
+                "handle": "yeezy-700-mnvn"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "750",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "454372819231",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/750_30X.png?v=1723432149",
+                "title": "Yeezy 750",
+                "handle": "yeezy-750"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "FOAM RUNNER",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446580031775",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/FOAM_RUNNER_30X.png?v=1723432218",
+                "title": "Yeezy Foam Runner",
+                "handle": "yeezy-foam-runner"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "KNIT RUNNER",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446580195615",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/KNIT_RUNNER_30X.png?v=1723432304",
+                "title": "Yeezy Knit Runner",
+                "handle": "yeezy-knit-runner"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "POD",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "479196250399",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/POD_30X.png?v=1723432571",
+                "title": "Yeezy Pod",
+                "handle": "yeezy-pod"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "POWERPHASE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "446580228383",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/POWERPHASE_30X.png?v=1723432482",
+                "title": "Yeezy Powerphase",
+                "handle": "yeezy-powerphase"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SLIDE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "448733675807",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/SLIDE_30X.png?v=1723432520",
+                "title": "Yeezy Slide",
+                "handle": "yeezy-slide"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "446579507487",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/yezzy_30X.png?v=1713263837",
+            "title": "Yeezy",
+            "handle": "yeezy"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "ASICS",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "447377080607",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/37_42d2e7b6-b802-4bc1-9cc9-2eccdbbdc159_30X.png?v=1713259979",
+            "title": "Asics",
+            "handle": "asics"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "CONVERSE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "447377572127",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/39_b36168c8-80d1-4690-83c9-23619280845c_30X.png?v=1713260757",
+            "title": "Converse",
+            "handle": "converse"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "MSCHF",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "464643948831",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/mschf_30X.png?v=1713262485",
+            "title": "MSCHF",
+            "handle": "mschf-sneaker"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "NEW BALANCE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "427578556703",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/new_balance_30X.png?v=1713262563",
+            "title": "New Balance",
+            "handle": "new-balance"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "VANS",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "447377899807",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/vans_30X.png?v=1713263977",
+            "title": "Vans",
+            "handle": "vans"
+          }
+        }
+      ],
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "id": 42645,
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/image/66d563e8a6f79_right-arrow_%282%29.png",
+        "name": "66d563e8a6f79_right-arrow_(2).png",
+        "type": "2",
+        "width": 0,
+        "height": 0,
+        "shop_id": 4062,
+        "created_at": "2024-09-02T07:06:16.000000Z",
+        "updated_at": "2024-09-02T07:06:16.000000Z"
+      },
+      "name": "",
+      "type": "navigation",
+      "title": "ACCESSORY",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": [
+        {
+          "type": "navigation",
+          "title": "BAG",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "CHANEL",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "473839665439",
+                "type": "collection",
+                "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/33_3e200f71-1301-4cbe-9ece-1905e69b6952_30X.png?v=1713260363",
+                "title": "Brand: Chanel",
+                "handle": "chanel"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "EK COLLECTION",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971939615",
+                "type": "collection",
+                "image": "",
+                "title": "Bag: EK Collection",
+                "handle": "bag-ek-collection"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "GOYARD",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971906847",
+                "type": "collection",
+                "image": "",
+                "title": "Bag: Goyard",
+                "handle": "bag-goyard"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "HUMAN MADE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "479081300255",
+                "type": "collection",
+                "image": "",
+                "title": "Bag: Human Made",
+                "handle": "bag-human-made"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "STEALPLUG",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971874079",
+                "type": "collection",
+                "image": "",
+                "title": "Bag: STEALPLUG",
+                "handle": "bag-stealplug"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SUPREME",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971841311",
+                "type": "collection",
+                "image": "",
+                "title": "Bag: Supreme",
+                "handle": "bag-supreme"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "CAP/BEANIE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "PALACE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477972103455",
+                "type": "collection",
+                "image": "",
+                "title": "Cap/Beanie: Palace",
+                "handle": "cap-beanie-palace"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SUPREME",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477972037919",
+                "type": "collection",
+                "image": "",
+                "title": "Cap/Beanie: Supreme",
+                "handle": "cap-beanie-supreme"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "CLEANING",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "SNEAKERSE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971775775",
+                "type": "collection",
+                "image": "",
+                "title": "Cleaning: SNEAKERSE",
+                "handle": "cleaning-sneakerse"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SWASH",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "482808889631",
+                "type": "collection",
+                "image": "",
+                "title": "Cleaning: SWASH",
+                "handle": "cleaning-swash"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "COLLECTIBLE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "A BATHING APE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971546399",
+                "type": "collection",
+                "image": "",
+                "title": "Collectible: A Bathing Ape",
+                "handle": "collectible-a-bathing-ape"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "KANYE WEST",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971480863",
+                "type": "collection",
+                "image": "",
+                "title": "Collectible: Kanye West",
+                "handle": "collectible-kanye-west"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "KAWS",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971513631",
+                "type": "collection",
+                "image": "",
+                "title": "Collectible: Kaws",
+                "handle": "collectible-kaws"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SUPREME",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971415327",
+                "type": "collection",
+                "image": "",
+                "title": "Collectible: Supreme",
+                "handle": "collectible-supreme"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "TAKASHI MURAKAMI",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971579167",
+                "type": "collection",
+                "image": "",
+                "title": "Collectible: Takashi Murakami",
+                "handle": "collectible-takashi-murakami"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "JEWELRY",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "EK COLLECTION",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971054879",
+                "type": "collection",
+                "image": "",
+                "title": "Jewelry: EK Collection",
+                "handle": "jewelry-ek-collection"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "HERMES",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971087647",
+                "type": "collection",
+                "image": "",
+                "title": "Jewelry: Hermes",
+                "handle": "jewelry-hermes"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "PERFUME",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "STONED & CO ®",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "480626868511",
+                "type": "collection",
+                "image": "",
+                "title": "Perfume: Stoned & Co ®",
+                "handle": "perfume-stoned-co-®"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "SOCK",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "EGLAF",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477970661663",
+                "type": "collection",
+                "image": "",
+                "title": "Socks: EGLAF",
+                "handle": "socks-egllaf"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "EK COLLECTION",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477970530591",
+                "type": "collection",
+                "image": "",
+                "title": "Socks: EK Collection",
+                "handle": "socks-ek-collection"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "STEALPLUG",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477970596127",
+                "type": "collection",
+                "image": "",
+                "title": "Socks: STEALPLUG",
+                "handle": "socks-stealplug"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SUPREME",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477970628895",
+                "type": "collection",
+                "image": "",
+                "title": "Socks: Supreme",
+                "handle": "socks-supreme"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "STORAGE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "STEALPLUG",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971251487",
+                "type": "collection",
+                "image": "",
+                "title": "Storage: STEALPLUG",
+                "handle": "storage-stealplug"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "UNDERWEAR",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "SUPREME",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971808543",
+                "type": "collection",
+                "image": "",
+                "title": "Underwear: Supreme",
+                "handle": "underwear-supreme"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "WALLET",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "CHRISTIAN LOUBOUTIN",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477970858271",
+                "type": "collection",
+                "image": "",
+                "title": "Wallet: Christian Louboutin",
+                "handle": "wallet-christian-louboutin"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "EK COLLECTION",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477970825503",
+                "type": "collection",
+                "image": "",
+                "title": "Wallet: EK Collection",
+                "handle": "wallet-ek-collection"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "GOYARD",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477970792735",
+                "type": "collection",
+                "image": "",
+                "title": "Wallet: Goyard",
+                "handle": "wallet-goyard"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "HUMAN MADE",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477530980639",
+                "type": "collection",
+                "image": "",
+                "title": "Brand: Human Made",
+                "handle": "brand-human-made"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "LOUIS VUITTON",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477970759967",
+                "type": "collection",
+                "image": "",
+                "title": "Wallet: Louis Vuitton",
+                "handle": "wallet-louis-vuitton"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "navigation",
+          "title": "WATCH",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": [
+            {
+              "type": "collection",
+              "title": "EK COLLECTION",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971710239",
+                "type": "collection",
+                "image": "",
+                "title": "Watch: EK Collection",
+                "handle": "watch-ek-collection"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "STONE & CO ®",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "481967178015",
+                "type": "collection",
+                "image": "",
+                "title": "Watch: Stoned & Co ®",
+                "handle": "watch-stoned-co-®"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SUPREME",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971677471",
+                "type": "collection",
+                "image": "",
+                "title": "Watch: Supreme",
+                "handle": "watch-supreme"
+              }
+            },
+            {
+              "type": "collection",
+              "title": "SWATCH",
+              "is_show": false,
+              "blog_link": null,
+              "product_link": null,
+              "webpage_link": "",
+              "is_custom_page": false,
+              "collection_link": {
+                "id": "477971644703",
+                "type": "collection",
+                "image": "",
+                "title": "Watch: Swatch",
+                "handle": "watch-swatch"
+              }
+            }
+          ],
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477966172447",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/71_30X.png?v=1721456263",
+            "title": "All: Watch",
+            "handle": "all-watch"
+          }
+        }
+      ],
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "id": 42645,
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/image/66d563e8a6f79_right-arrow_%282%29.png",
+        "name": "66d563e8a6f79_right-arrow_(2).png",
+        "type": "2",
+        "width": 0,
+        "height": 0,
+        "shop_id": 4062,
+        "created_at": "2024-09-02T07:06:16.000000Z",
+        "updated_at": "2024-09-02T07:06:16.000000Z"
+      },
+      "name": "",
+      "type": "navigation",
+      "title": "DESIGNER",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": [
+        {
+          "type": "collection",
+          "title": "SHOP ALL",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "427697733919",
+            "type": "collection",
+            "image": "",
+            "title": "All: Designer",
+            "handle": "designers"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "AMI PARIS",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477805347103",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/17_d83e4de2-8a87-45d7-8dd8-9eb9a485dca8_30X.webp?v=1721394965",
+            "title": "Brand: Ami Paris",
+            "handle": "brand-ami-paris"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "BALENCIAGA",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "481399210271",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/54_14_11zon_30X.jpg?v=1721394601",
+            "title": "Brand: Balenciaga",
+            "handle": "brand-balenciaga"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "BURBERRY",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477805478175",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/22_1678f0cf-cc48-4d7e-be49-683c098a884a_30X.webp?v=1721395009",
+            "title": "Brand: Burberry",
+            "handle": "brand-burberry"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "CHANEL",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "473839665439",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/33_3e200f71-1301-4cbe-9ece-1905e69b6952_30X.png?v=1713260363",
+            "title": "Brand: Chanel",
+            "handle": "chanel"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "CHRISTIAN LOUBOUTIN",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "434127601951",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/7_b8a7d3d1-54d0-44f9-ad5c-232f28bb01b2_30X.png?v=1713260518",
+            "title": "Brand: Christian Louboutin",
+            "handle": "christian-louboutin"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "CHROME HEARTS",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477757374751",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/50_10_11zon_30X.jpg?v=1721393993",
+            "title": "Brand: Chrome Hearts",
+            "handle": "brand-chrome-hearts"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "DIOR",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477756490015",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/51_11_11zon_30X.jpg?v=1721394025",
+            "title": "Brand: Dior",
+            "handle": "brand-dior"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "GIVENCHY",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477756293407",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/52_12_11zon_30X.jpg?v=1721394065",
+            "title": "Brand: Givenchy",
+            "handle": "brand-givenchy"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "GOYARD",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "427698127135",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/9_ff93f624-4ce5-4882-b7e8-3b3b6a95bc66_30X.png?v=1713261350",
+            "title": "Brand: Goyard",
+            "handle": "goyard"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "GUCCI",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "427698225439",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/18_5189499a-06a8-4c64-8f5a-1a6c569c63e6_30X.png?v=1713261714",
+            "title": "Brand: Gucci",
+            "handle": "gucci"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "LOEWE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477805740319",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/60_30X.png?v=1721394395",
+            "title": "Brand: Loewe",
+            "handle": "brand-loewe"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "LOUIS VUITTON",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477756195103",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/59_19_11zon_30X.jpg?v=1721394427",
+            "title": "Brand: Louis Vuitton",
+            "handle": "brand-louis-vuitton"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "MAISON MARGIELA",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477755605279",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/58_18_11zon_30X.jpg?v=1721394462",
+            "title": "Brand: Maison Margiela",
+            "handle": "brand-maison-margiela"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "MASTERMIND",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477765206303",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/57_17_11zon_30X.jpg?v=1721394499",
+            "title": "Brand: Mastermind",
+            "handle": "brand-mastermind"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "PALM ANGELS",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477765239071",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/56_16_11zon_30X.jpg?v=1721394537",
+            "title": "Brand: Palm Angels",
+            "handle": "brand-palm-angels"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "THOM BROWNE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "481399013663",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/53_13_11zon_30X.jpg?v=1721394645",
+            "title": "Brand: THOM BROWNE",
+            "handle": "brand-thom-browne"
+          }
+        },
+        {
+          "type": "collection",
+          "title": "WE11DONE",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "",
+          "is_custom_page": false,
+          "collection_link": {
+            "id": "477533077791",
+            "type": "collection",
+            "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/55_15_11zon_30X.jpg?v=1721394566",
+            "title": "Brand: We11done",
+            "handle": "brand-we11done"
+          }
+        }
+      ],
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "id": 42645,
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/image/66d563e8a6f79_right-arrow_%282%29.png",
+        "name": "66d563e8a6f79_right-arrow_(2).png",
+        "type": "2",
+        "width": 0,
+        "height": 0,
+        "shop_id": 4062,
+        "created_at": "2024-09-02T07:06:16.000000Z",
+        "updated_at": "2024-09-02T07:06:16.000000Z"
+      },
+      "name": "",
+      "type": "collection",
+      "title": "OUR TOP PICK",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": {
+        "id": "478739398943",
+        "type": "collection",
+        "image": "",
+        "title": "Our Top Pick",
+        "handle": "our-top-pick"
+      },
+      "blog_link": null,
+      "navigations": null,
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/default/icons/081-shopping-bag-4.png",
+        "name": "081-shopping-bag-4.png",
+        "type": 2,
+        "width": "512",
+        "height": "512"
+      },
+      "name": "",
+      "type": "collection",
+      "title": "MEGA SALES",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": {
+        "id": "468872266015",
+        "type": "collection",
+        "image": "https://cdn.shopify.com/s/files/1/0666/2809/2191/collections/supreme_76695726-e910-4c30-bcf3-dc90d93377a0.png?v=1722407295",
+        "title": "Mega Sales",
+        "handle": "mega-sales"
+      },
+      "blog_link": null,
+      "navigations": null,
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/default/icons/068-dollar-symbol-1.png",
+        "name": "068-dollar-symbol-1.png",
+        "type": 2,
+        "width": "512",
+        "height": "512"
+      },
+      "name": "",
+      "type": "webpage",
+      "title": "Rewards",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "https://stealplug.com.my/pages/splug-rewards-club?bb=mobile_bb",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": null,
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/default/icons/telephone.png",
+        "name": "telephone.png",
+        "type": 2,
+        "width": "128",
+        "height": "128"
+      },
+      "name": "",
+      "type": "webpage",
+      "title": "Contact Us",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "https://stealplug.com.my/pages/contact?bb=mobile_bb",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": null,
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "id": 42645,
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/image/66d563e8a6f79_right-arrow_%282%29.png",
+        "name": "66d563e8a6f79_right-arrow_(2).png",
+        "type": "2",
+        "width": 0,
+        "height": 0,
+        "shop_id": 4062,
+        "created_at": "2024-09-02T07:06:16.000000Z",
+        "updated_at": "2024-09-02T07:06:16.000000Z"
+      },
+      "name": "",
+      "type": "navigation",
+      "title": "Quick Links",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": [
+        {
+          "type": "webpage",
+          "title": "About Us",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/pages/about-us?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "Location",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/pages/location?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "FAQ's",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/pages/faqs?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "Payment Methods",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/pages/payment-methods?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "Return | Refund | Exchange policy",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/policies/refund-policy?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "Shipping & Delivery",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/policies/shipping-policy?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "Terms & Conditions",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/policies/terms-of-service?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        }
+      ],
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/default/icons/042-user-light.png",
+        "name": "042-user-light.png",
+        "type": 2,
+        "width": "512",
+        "height": "512"
+      },
+      "name": "",
+      "type": "navigation",
+      "title": "Account",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": [
+        {
+          "type": "webpage",
+          "title": "My Account",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/account/login?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "Track your Parcel",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://www.tracking.my/",
+          "is_custom_page": false,
+          "collection_link": null
+        }
+      ],
+      "is_custom_page": false
+    },
+    {
+      "img": {
+        "src": "https://mobile-app-cdn.nyc3.digitaloceanspaces.com/default/icons/017-price%20tag-light.png",
+        "name": "017-price tag-light.png",
+        "type": 2,
+        "width": "512",
+        "height": "512"
+      },
+      "name": "",
+      "type": "navigation",
+      "title": "Services",
+      "is_enable": true,
+      "product_link": null,
+      "webpage_link": "",
+      "collection_link": null,
+      "blog_link": null,
+      "navigations": [
+        {
+          "type": "webpage",
+          "title": "Sell to us",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/pages/sell-to-us?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "Personalized Sourcing",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/pages/personalised-sourcing-pre-order?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        },
+        {
+          "type": "webpage",
+          "title": "Splug Reward Club",
+          "is_show": false,
+          "blog_link": null,
+          "navigations": null,
+          "product_link": null,
+          "webpage_link": "https://stealplug.com.my/pages/splug-rewards-club?bb=mobile_bb",
+          "is_custom_page": false,
+          "collection_link": null
+        }
+      ],
+      "is_custom_page": false
+    }
+  ],
+  "show_logo": true
+}
